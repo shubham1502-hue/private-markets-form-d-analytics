@@ -1,0 +1,8 @@
+asset_class_group,fund_type,fund_count,total_capital_bn,avg_fund_size_mn,pct_of_total_capital
+Private Equity & VC,Venture Capital,1372,45.93,33.48,28.83
+Private Equity & VC,Private Equity,1128,40.28,35.71,25.29
+Real Assets,Real Estate Fund,879,31.16,35.45,19.56
+Hedge Funds,Hedge Fund,533,17.85,33.49,11.21
+Private Debt,Private Debt,352,10.9,30.96,6.84
+Real Assets,Infrastructure,206,7.08,34.35,4.44
+Private Equity & VC,Fund of Funds,178,6.11,34.33,3.84

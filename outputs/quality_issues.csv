@@ -1,0 +1,10 @@
+issue_type,records_affected,rate_pct,severity
+duplicate_filing,308,6.16,MEDIUM
+outlier_offering_amount,50,1.0,LOW
+missing_issuer_name,0,0.0,LOW
+missing_offering_amount,0,0.0,LOW
+zero_offering_amount,0,0.0,LOW
+amount_exceeds_offering,0,0.0,LOW
+zero_investors,0,0.0,LOW
+missing_exemption_type,0,0.0,LOW
+unclassified_fund_type,0,0.0,LOW

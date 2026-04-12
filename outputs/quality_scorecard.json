@@ -1,0 +1,8 @@
+{
+  "total_records": 5000,
+  "required_field_completeness_pct": 100.0,
+  "clean_record_rate_pct": 92.96,
+  "duplicate_free_rate_pct": 93.84,
+  "overall_quality_score": 96.61,
+  "quality_grade": "A"
+}

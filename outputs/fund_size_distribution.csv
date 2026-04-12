@@ -1,0 +1,7 @@
+fund_size_bucket,fund_count,total_capital_bn,pct_of_funds,pct_of_capital
+Large ($250M-$1B),132,60.85,2.84,38.19
+Mid ($50M-$250M),522,54.78,11.23,34.38
+Lower Mid ($10M-$50M),1121,26.12,24.12,16.39
+Mega (>$1B),9,9.74,0.19,6.11
+Small ($1M-$10M),1817,7.39,39.09,4.64
+Micro (<$1M),1047,0.45,22.53,0.28

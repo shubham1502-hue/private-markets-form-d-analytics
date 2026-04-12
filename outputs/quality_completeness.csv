@@ -1,0 +1,17 @@
+field,total,populated,missing,completeness_pct,field_type,status
+issuer_name,5000,5000,0,100.0,required,OK
+filing_date,5000,5000,0,100.0,required,OK
+federal_exemption,5000,5000,0,100.0,required,OK
+fund_type,5000,5000,0,100.0,required,OK
+total_offering_amount,5000,5000,0,100.0,required,OK
+amount_sold,5000,5000,0,100.0,required,OK
+num_investors,5000,5000,0,100.0,required,OK
+asset_class_group,5000,5000,0,100.0,required,OK
+period_of_report,5000,0,5000,0.0,optional,OK
+cik,5000,5000,0,100.0,optional,OK
+form_type,5000,5000,0,100.0,optional,OK
+filing_year,5000,5000,0,100.0,optional,OK
+filing_quarter,5000,5000,0,100.0,optional,OK
+pct_capital_raised,5000,5000,0,100.0,optional,OK
+fund_size_bucket,5000,5000,0,100.0,optional,OK
+investor_bucket,5000,5000,0,100.0,optional,OK

@@ -1,0 +1,6 @@
+investor_bucket,fund_count,capital_raised_bn,avg_fund_size_mn,pct_of_total_capital
+Mid (11-50),2132,76.38,35.82,47.94
+Small (1-10),1709,59.3,34.7,37.22
+Large (51-200),712,21.27,29.87,13.35
+Institutional (201-500),86,2.02,23.51,1.27
+Mass (500+),9,0.35,38.99,0.22
