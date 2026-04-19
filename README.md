@@ -15,7 +15,7 @@ assets fundraising data for institutional investors.
 | Filings Processed | 8,500 Form D filings (2022–2024) |
 | Data Quality Score | 93.7 / 100 (Grade: A) |
 | Clean Record Rate | 92.96% |
-| SQL Queries Written | 12 (DuckDB — trends, Pareto, exemption analysis) |
+| SQL Queries Written | 12 (MySQL — trends, Pareto, exemption analysis) |
 | Quality Rules Applied | 9 (duplicates, missing fields, outliers, inconsistencies) |
 
 ---
@@ -95,7 +95,7 @@ required, making the pipeline fully portable for a portfolio project.
 ---
 
 ## Tech Stack
-`Python` · `Pandas` · `NumPy` · `SQL (DuckDB)` · `Tableau Public`
+`Python` · `Pandas` · `NumPy` · `MySQL` · `Tableau Public`
 
 ---
 
