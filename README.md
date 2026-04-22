@@ -83,15 +83,14 @@ teams in financial platforms need explainable, auditable rules, not
 black-box scores. Each flag maps to a specific, documentable business 
 rule that compliance or data ops teams can act on.
 
-**DuckDB for SQL layer** — lightweight, no-server SQL engine that runs 
-analytical queries on DataFrames in-process. No database server setup 
-required, making the pipeline fully portable for a portfolio project.
 
 ---
 
 ## Dashboard Preview
 ![Private Markets Dashboard](dashboard/dashboard_preview.png)
 
+## Dashboard Link
+https://public.tableau.com/views/PrivateMarketsFundraisingIntelligenceSECFormDAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## Tech Stack
